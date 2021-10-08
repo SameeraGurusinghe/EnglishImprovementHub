@@ -1,0 +1,21 @@
+.header {
+    color: #36A0FF;
+    font-size: 27px;
+    padding: 10px;
+}
+
+.bigicon {
+    font-size: 35px;
+    color: #36A0FF;
+}
+
+.registration-container{
+position: relative;
+background: rgba(240, 248, 255, 0.5);
+/*margin-top: 40%;*/
+margin-bottom: auto;
+}
+
+legend{
+text-align: center;
+}
